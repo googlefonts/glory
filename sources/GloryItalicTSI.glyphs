@@ -1,6 +1,6 @@
 {
-.appVersion = "1271";
-copyright = "©2016-2020 TypeSETit, LLC";
+.appVersion = "1342";
+copyright = "Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)";
 customParameters = (
 {
 name = Axes;
@@ -14,6 +14,7 @@ Tag = wght;
 );
 date = "2020-07-01 19:15:44 +0000";
 designer = "Rob Leuschke";
+designerURL = www.typesetit.com;
 familyName = GloryItalicTSI;
 featurePrefixes = (
 {
