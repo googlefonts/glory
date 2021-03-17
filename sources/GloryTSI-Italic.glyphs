@@ -467,7 +467,7 @@ wght = {
 date = "2020-07-01 19:15:44 +0000";
 designer = "Rob Leuschke";
 designerURL = www.typesetit.com;
-familyName = GloryTSI;
+familyName = "Glory TSI";
 featurePrefixes = (
 {
 automatic = 1;
@@ -588,7 +588,7 @@ alignmentZones = (
 );
 ascender = 687;
 capHeight = 673;
-custom = "Black Italic";
+custom = "Extra Italic";
 customParameters = (
 {
 name = typoAscender;
@@ -637,14 +637,15 @@ horizontalStems = (
 121,
 90
 );
-iconName = Bold;
 id = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
 italicAngle = 12;
+name = "ExtraBold Italic";
 verticalStems = (
 147,
 157
 );
-weightValue = 900;
+weight = Bold;
+weightValue = 800;
 xHeight = 472;
 }
 );
@@ -52715,8 +52716,8 @@ weightClass = Thin;
 {
 interpolationWeight = 300;
 instanceInterpolations = {
-"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.75;
-"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.25;
+"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.71429;
+"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.28571;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -52726,8 +52727,8 @@ weightClass = Light;
 {
 interpolationWeight = 400;
 instanceInterpolations = {
-"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.625;
-"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.375;
+"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.57143;
+"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.42857;
 };
 isItalic = 1;
 name = Italic;
@@ -52735,8 +52736,8 @@ name = Italic;
 {
 interpolationWeight = 500;
 instanceInterpolations = {
-"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.5;
-"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.5;
+"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.42857;
+"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.57143;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -52746,8 +52747,8 @@ weightClass = Medium;
 {
 interpolationWeight = 700;
 instanceInterpolations = {
-"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.25;
-"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.75;
+"707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.14286;
+"D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.85714;
 };
 isBold = 1;
 isItalic = 1;
@@ -52755,14 +52756,14 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
-interpolationWeight = 900;
+interpolationWeight = 800;
 instanceInterpolations = {
 "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 1;
 };
 isItalic = 1;
 linkStyle = Black;
-name = "Black Italic";
-weightClass = Black;
+name = "ExtraBold Italic";
+weightClass = ExtraBold;
 }
 );
 kerning = {
