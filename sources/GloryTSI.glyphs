@@ -3,7 +3,8 @@
 DisplayStrings = (
 "¨Ü",
 "1/minus 2×3÷4=±¬<>/notequal/approxequal",
-noHOt
+"nn/Placeholder no/Placeholder oo/space naranjo\012abcdHefghinojklmnopqrstuvwxyz",
+"/space/nbspace"
 );
 copyright = "Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)";
 customParameters = (
@@ -436,6 +437,18 @@ zdotaccent
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "707362F1-A677-446A-8636-E10BE3A7FAFF";
+},
+{
+name = "Variable Font Family Name";
+value = "Glory TSI";
 }
 );
 date = "2020-07-01 19:15:44 +0000";
@@ -488,18 +501,48 @@ name = liga;
 );
 fontMaster = (
 {
-ascender = 800;
-capHeight = 700;
+alignmentZones = (
+"{708, 5}",
+"{673, 5}",
+"{472, 5}",
+"{0, -5}",
+"{-122, -5}"
+);
+ascender = 708;
+capHeight = 672;
 custom = Thin;
 customParameters = (
 {
-name = Axes;
-value = (
+name = typoAscender;
+value = 1000;
+},
 {
-Name = Weight;
-Tag = wght;
-}
-);
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1100;
+},
+{
+name = winDescent;
+value = 280;
 }
 );
 descender = -200;
@@ -516,13 +559,54 @@ id = "707362F1-A677-446A-8636-E10BE3A7FAFF";
 verticalStems = (
 34
 );
-xHeight = 500;
+xHeight = 472;
 },
 {
-ascender = 800;
-capHeight = 700;
+alignmentZones = (
+"{687, 5}",
+"{673, 5}",
+"{472, 5}",
+"{0, -5}",
+"{-122, -2}"
+);
+ascender = 687;
+capHeight = 673;
 custom = Black;
-descender = -200;
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1100;
+},
+{
+name = winDescent;
+value = 280;
+}
+);
+descender = -122;
 horizontalStems = (
 114,
 121,
@@ -535,7 +619,7 @@ verticalStems = (
 157
 );
 weightValue = 900;
-xHeight = 500;
+xHeight = 472;
 }
 );
 glyphs = (
@@ -574,17 +658,18 @@ unicode = 0020;
 {
 color = 0;
 glyphname = nbspace;
-lastChange = "2021-03-17 00:09:52 +0000";
+lastChange = "2021-03-17 01:23:56 +0000";
 layers = (
 {
 layerId = "707362F1-A677-446A-8636-E10BE3A7FAFF";
-width = 300;
+width = 250;
 },
 {
 layerId = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
-width = 0;
+width = 225;
 }
 );
+widthMetricsKey = space;
 unicode = 00A0;
 },
 {
@@ -1774,8 +1859,9 @@ note = d;
 unicode = 0064;
 },
 {
+color = 0;
 glyphname = e;
-lastChange = "2021-03-17 00:09:52 +0000";
+lastChange = "2021-03-17 01:50:08 +0000";
 layers = (
 {
 background = {
@@ -19434,7 +19520,7 @@ unicode = 002D;
 },
 {
 glyphname = period;
-lastChange = "2021-03-17 00:09:52 +0000";
+lastChange = "2021-03-17 01:28:04 +0000";
 layers = (
 {
 background = {
@@ -19442,18 +19528,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"128 32 OFFCURVE",
-"125 39 OFFCURVE",
-"104 39 CURVE SMOOTH",
-"85 39 OFFCURVE",
-"80 32 OFFCURVE",
-"80 17 CURVE SMOOTH",
-"80 1 OFFCURVE",
-"85 -6 OFFCURVE",
-"104 -6 CURVE SMOOTH",
-"125 -6 OFFCURVE",
-"128 1 OFFCURVE",
-"128 17 CURVE SMOOTH"
+"98 32 OFFCURVE",
+"95 39 OFFCURVE",
+"74 39 CURVE SMOOTH",
+"55 39 OFFCURVE",
+"50 32 OFFCURVE",
+"50 17 CURVE SMOOTH",
+"50 1 OFFCURVE",
+"55 -6 OFFCURVE",
+"74 -6 CURVE SMOOTH",
+"95 -6 OFFCURVE",
+"98 1 OFFCURVE",
+"98 17 CURVE SMOOTH"
 );
 }
 );
@@ -19474,22 +19560,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"128 32 OFFCURVE",
-"125 39 OFFCURVE",
-"104 39 CURVE SMOOTH",
-"85 39 OFFCURVE",
-"80 32 OFFCURVE",
-"80 17 CURVE SMOOTH",
-"80 1 OFFCURVE",
-"85 -6 OFFCURVE",
-"104 -6 CURVE SMOOTH",
-"125 -6 OFFCURVE",
-"128 1 OFFCURVE",
-"128 17 CURVE SMOOTH"
+"98 32 OFFCURVE",
+"95 39 OFFCURVE",
+"74 39 CURVE SMOOTH",
+"55 39 OFFCURVE",
+"50 32 OFFCURVE",
+"50 17 CURVE SMOOTH",
+"50 1 OFFCURVE",
+"55 -6 OFFCURVE",
+"74 -6 CURVE SMOOTH",
+"95 -6 OFFCURVE",
+"98 1 OFFCURVE",
+"98 17 CURVE SMOOTH"
 );
 }
 );
-width = 208;
+width = 148;
 },
 {
 background = {
@@ -25844,19 +25930,22 @@ unicode = 00A1;
 },
 {
 glyphname = ellipsis;
-lastChange = "2021-03-17 00:09:52 +0000";
+lastChange = "2021-03-17 01:28:10 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = period;
+transform = "{1, 0, 0, 1, 91, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 91, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 91, 0}";
 }
 );
 };
@@ -25866,13 +25955,15 @@ name = period;
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 98, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 199, 0}";
 }
 );
 layerId = "707362F1-A677-446A-8636-E10BE3A7FAFF";
-width = 208;
+width = 347;
 },
 {
 background = {
@@ -25894,15 +25985,19 @@ name = period;
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 198, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 395, 0}";
 }
 );
 layerId = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
-width = 228;
+width = 623;
 }
 );
+leftMetricsKey = period;
+rightMetricsKey = period;
 unicode = 2026;
 },
 {
@@ -60090,6 +60185,7 @@ instanceInterpolations = {
 "707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.25;
 "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.75;
 };
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
