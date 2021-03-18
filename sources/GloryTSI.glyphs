@@ -29944,7 +29944,7 @@ unicode = 0031;
 {
 color = 4;
 glyphname = two;
-lastChange = "2021-03-17 21:47:27 +0000";
+lastChange = "2021-03-17 23:47:56 +0000";
 layers = (
 {
 background = {
@@ -30042,24 +30042,24 @@ nodes = (
 "275 139 OFFCURVE",
 "450 289 OFFCURVE",
 "450 484 CURVE SMOOTH",
-"450 625 OFFCURVE",
-"348 681 OFFCURVE",
-"253 681 CURVE SMOOTH",
-"186 681 OFFCURVE",
-"124 651 OFFCURVE",
-"107 641 CURVE SMOOTH",
-"101 637 OFFCURVE",
-"99 635 OFFCURVE",
-"99 630 CURVE SMOOTH",
-"99 608 LINE SMOOTH",
-"99 601 OFFCURVE",
-"105 603 OFFCURVE",
-"118 610 CURVE SMOOTH",
-"140 622 OFFCURVE",
-"194 648 OFFCURVE",
-"253 648 CURVE SMOOTH",
-"335 648 OFFCURVE",
-"417 602 OFFCURVE",
+"450 623 OFFCURVE",
+"348 678 OFFCURVE",
+"253 678 CURVE SMOOTH",
+"186 678 OFFCURVE",
+"124 648 OFFCURVE",
+"107 638 CURVE SMOOTH",
+"101 634 OFFCURVE",
+"99 632 OFFCURVE",
+"99 627 CURVE SMOOTH",
+"99 605 LINE SMOOTH",
+"99 598 OFFCURVE",
+"105 600 OFFCURVE",
+"118 607 CURVE SMOOTH",
+"140 619 OFFCURVE",
+"194 645 OFFCURVE",
+"253 645 CURVE SMOOTH",
+"335 645 OFFCURVE",
+"417 600 OFFCURVE",
 "417 484 CURVE SMOOTH",
 "417 287 OFFCURVE",
 "220 141 OFFCURVE",
@@ -58902,67 +58902,6 @@ width = 480;
 }
 );
 unicode = 1EF9;
-},
-{
-glyphname = threesuperior.001;
-layers = (
-{
-background = {
-components = (
-{
-name = three;
-transform = "{0.66842, 0, 0, 0.66842, 33, 249}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = "{248, 21}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{478, 22}";
-type = Stem;
-},
-{
-horizontal = 1;
-place = "{679, 19}";
-type = Stem;
-},
-{
-place = "{287, 21}";
-type = Stem;
-},
-{
-place = "{278, 21}";
-type = Stem;
-}
-);
-};
-components = (
-{
-name = three;
-transform = "{0.66842, 0, 0, 0.66842, 33, 249}";
-}
-);
-layerId = "707362F1-A677-446A-8636-E10BE3A7FAFF";
-width = 396;
-},
-{
-background = {
-components = (
-{
-name = three;
-transform = "{0.66842, 0, 0, 0.66842, 16, 249}";
-}
-);
-};
-layerId = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
-width = 382;
-}
-);
-note = threesuperior;
 },
 {
 glyphname = softhyphen;
