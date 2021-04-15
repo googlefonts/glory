@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1342";
 DisplayStrings = (
 "1234nn¹n²n³n/foursuperior nn",
 "1/minus 2×3÷4=±¬<>/notequal/approxequal",
@@ -126,7 +126,8 @@ a,
 "/gravecomb.case",
 "/circumflexcomb_gravecomb.case",
 "/circumflexcomb_tildecomb.case",
-"/Acircumflextilde"
+"/Acircumflextilde",
+vV
 );
 copyright = "Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)";
 customParameters = (
@@ -6649,7 +6650,7 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2021-04-12 08:36:05 +0000";
+lastChange = "2021-04-15 03:45:55 +0000";
 layers = (
 {
 anchors = (
@@ -6726,9 +6727,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"182 0 OFFCURVE",
-"206 0 OFFCURVE",
-"212 0 CURVE SMOOTH",
+"212 0 LINE SMOOTH",
 "215 0 OFFCURVE",
 "218 1 OFFCURVE",
 "220 6 CURVE SMOOTH",
@@ -6856,9 +6855,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"188 0 OFFCURVE",
-"256 -1 OFFCURVE",
-"263 -1 CURVE SMOOTH",
+"263 -1 LINE SMOOTH",
 "267 -1 OFFCURVE",
 "269 0 OFFCURVE",
 "272 5 CURVE SMOOTH",
@@ -6874,7 +6871,7 @@ nodes = (
 "287 471 LINE SMOOTH",
 "285 471 OFFCURVE",
 "283 470 OFFCURVE",
-"282 466 CURVE SMOOTH",
+"282 466 CURVE",
 "279 429 OFFCURVE",
 "269 366 OFFCURVE",
 "258 308 CURVE SMOOTH",
@@ -6882,9 +6879,9 @@ nodes = (
 "242 228 OFFCURVE",
 "235 206 CURVE SMOOTH",
 "231 195 OFFCURVE",
-"222 188 OFFCURVE",
-"218 209 CURVE",
-"209 241 OFFCURVE",
+"223 192 OFFCURVE",
+"219 206 CURVE SMOOTH",
+"209 242 OFFCURVE",
 "201 272 OFFCURVE",
 "189 332 CURVE SMOOTH",
 "178 385 OFFCURVE",
@@ -6894,9 +6891,9 @@ nodes = (
 "161 472 OFFCURVE",
 "150 472 CURVE SMOOTH",
 "27 472 LINE SMOOTH",
-"12 472 OFFCURVE",
-"14 454 OFFCURVE",
-"18 432 CURVE SMOOTH",
+"15 472 OFFCURVE",
+"13 462 OFFCURVE",
+"17 439 CURVE SMOOTH",
 "29 370 OFFCURVE",
 "47 296 OFFCURVE",
 "87 190 CURVE SMOOTH",
@@ -13737,7 +13734,7 @@ unicode = 0055;
 },
 {
 glyphname = V;
-lastChange = "2021-04-12 08:36:05 +0000";
+lastChange = "2021-04-15 03:43:42 +0000";
 layers = (
 {
 anchors = (
@@ -13920,10 +13917,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"336 0 LINE",
+"336 0 LINE SMOOTH",
 "345 4 OFFCURVE",
 "352 8 OFFCURVE",
-"361 21 CURVE",
+"361 21 CURVE SMOOTH",
 "433 159 OFFCURVE",
 "523 485 OFFCURVE",
 "544 632 CURVE SMOOTH",
@@ -13961,7 +13958,7 @@ nodes = (
 "212 21 CURVE SMOOTH",
 "219 8 OFFCURVE",
 "226 4 OFFCURVE",
-"237 0 CURVE"
+"237 0 CURVE SMOOTH"
 );
 }
 );
