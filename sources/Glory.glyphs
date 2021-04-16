@@ -126,8 +126,7 @@ a,
 "/gravecomb.case",
 "/circumflexcomb_gravecomb.case",
 "/circumflexcomb_tildecomb.case",
-"/Acircumflextilde",
-vV
+"/Acircumflextilde"
 );
 copyright = "Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)";
 customParameters = (
@@ -577,7 +576,7 @@ value = "Glory TSI";
 date = "2020-07-01 19:15:44 +0000";
 designer = "Rob Leuschke";
 designerURL = www.typesetit.com;
-familyName = "Glory TSI";
+familyName = Glory;
 featurePrefixes = (
 {
 automatic = 1;
@@ -3285,7 +3284,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2021-04-12 08:36:05 +0000";
+lastChange = "2021-04-16 01:10:04 +0000";
 layers = (
 {
 anchors = (
@@ -3383,7 +3382,7 @@ width = 185;
 anchors = (
 {
 name = bottom;
-position = "{137, 0}";
+position = "{117, 0}";
 }
 );
 background = {
@@ -3391,39 +3390,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"213 640 OFFCURVE",
-"202 667 OFFCURVE",
-"137 667 CURVE SMOOTH",
-"78 667 OFFCURVE",
-"60 640 OFFCURVE",
-"60 601 CURVE SMOOTH",
-"60 556 OFFCURVE",
-"78 532 OFFCURVE",
-"137 532 CURVE SMOOTH",
-"198 532 OFFCURVE",
-"213 556 OFFCURVE",
-"213 601 CURVE SMOOTH"
+"193 640 OFFCURVE",
+"182 667 OFFCURVE",
+"117 667 CURVE SMOOTH",
+"58 667 OFFCURVE",
+"40 640 OFFCURVE",
+"40 601 CURVE SMOOTH",
+"40 556 OFFCURVE",
+"58 532 OFFCURVE",
+"117 532 CURVE SMOOTH",
+"178 532 OFFCURVE",
+"193 556 OFFCURVE",
+"193 601 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"210 458 LINE SMOOTH",
-"210 466 OFFCURVE",
-"203 472 OFFCURVE",
-"195 472 CURVE SMOOTH",
-"78 472 LINE SMOOTH",
-"70 472 OFFCURVE",
-"64 466 OFFCURVE",
-"64 458 CURVE SMOOTH",
-"64 14 LINE SMOOTH",
-"64 6 OFFCURVE",
-"70 0 OFFCURVE",
-"78 0 CURVE SMOOTH",
-"195 0 LINE SMOOTH",
-"203 0 OFFCURVE",
-"210 6 OFFCURVE",
-"210 14 CURVE SMOOTH"
+"190 458 LINE SMOOTH",
+"190 466 OFFCURVE",
+"183 472 OFFCURVE",
+"175 472 CURVE SMOOTH",
+"58 472 LINE SMOOTH",
+"50 472 OFFCURVE",
+"44 466 OFFCURVE",
+"44 458 CURVE SMOOTH",
+"44 14 LINE SMOOTH",
+"44 6 OFFCURVE",
+"50 0 OFFCURVE",
+"58 0 CURVE SMOOTH",
+"175 0 LINE SMOOTH",
+"183 0 OFFCURVE",
+"190 6 OFFCURVE",
+"190 14 CURVE SMOOTH"
 );
 }
 );
@@ -3433,43 +3432,43 @@ paths = (
 {
 closed = 1;
 nodes = (
-"213 640 OFFCURVE",
-"202 667 OFFCURVE",
-"137 667 CURVE SMOOTH",
-"78 667 OFFCURVE",
-"60 640 OFFCURVE",
-"60 601 CURVE SMOOTH",
-"60 556 OFFCURVE",
-"78 532 OFFCURVE",
-"137 532 CURVE SMOOTH",
-"198 532 OFFCURVE",
-"213 556 OFFCURVE",
-"213 601 CURVE SMOOTH"
+"193 640 OFFCURVE",
+"182 667 OFFCURVE",
+"117 667 CURVE SMOOTH",
+"58 667 OFFCURVE",
+"40 640 OFFCURVE",
+"40 601 CURVE SMOOTH",
+"40 556 OFFCURVE",
+"58 532 OFFCURVE",
+"117 532 CURVE SMOOTH",
+"178 532 OFFCURVE",
+"193 556 OFFCURVE",
+"193 601 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"210 458 LINE SMOOTH",
-"210 466 OFFCURVE",
-"203 472 OFFCURVE",
-"195 472 CURVE SMOOTH",
-"78 472 LINE SMOOTH",
-"70 472 OFFCURVE",
-"64 466 OFFCURVE",
-"64 458 CURVE SMOOTH",
-"64 14 LINE SMOOTH",
-"64 6 OFFCURVE",
-"70 0 OFFCURVE",
-"78 0 CURVE SMOOTH",
-"195 0 LINE SMOOTH",
-"203 0 OFFCURVE",
-"210 6 OFFCURVE",
-"210 14 CURVE SMOOTH"
+"190 458 LINE SMOOTH",
+"190 466 OFFCURVE",
+"183 472 OFFCURVE",
+"175 472 CURVE SMOOTH",
+"58 472 LINE SMOOTH",
+"50 472 OFFCURVE",
+"44 466 OFFCURVE",
+"44 458 CURVE SMOOTH",
+"44 14 LINE SMOOTH",
+"44 6 OFFCURVE",
+"50 0 OFFCURVE",
+"58 0 CURVE SMOOTH",
+"175 0 LINE SMOOTH",
+"183 0 OFFCURVE",
+"190 6 OFFCURVE",
+"190 14 CURVE SMOOTH"
 );
 }
 );
-width = 273;
+width = 233;
 }
 );
 leftMetricsKey = n;
@@ -40007,7 +40006,7 @@ unicode = 00D0;
 },
 {
 glyphname = fi;
-lastChange = "2021-04-12 09:26:26 +0000";
+lastChange = "2021-04-16 01:10:04 +0000";
 layers = (
 {
 background = {
@@ -40229,7 +40228,7 @@ transform = "{1, 0, 0, 1, 438, 0}";
 }
 );
 layerId = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
-width = 711;
+width = 671;
 }
 );
 leftMetricsKey = f;
@@ -55375,7 +55374,7 @@ width = 273;
 },
 {
 glyphname = idotbelow;
-lastChange = "2021-04-12 09:26:26 +0000";
+lastChange = "2021-04-16 01:10:15 +0000";
 layers = (
 {
 background = {
@@ -55417,11 +55416,11 @@ name = i;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 50, 0}";
+transform = "{1, 0, 0, 1, 30, 0}";
 }
 );
 layerId = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
-width = 273;
+width = 233;
 }
 );
 unicode = 1ECB;

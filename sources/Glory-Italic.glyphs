@@ -451,7 +451,7 @@ value = "707362F1-A677-446A-8636-E10BE3A7FAFF";
 },
 {
 name = "Variable Font File Name";
-value = "Glory TSI";
+value = Glory;
 },
 {
 name = "Axis Mappings";
@@ -470,7 +470,7 @@ wght = {
 date = "2020-07-01 19:15:44 +0000";
 designer = "Rob Leuschke";
 designerURL = www.typesetit.com;
-familyName = "Glory TSI";
+familyName = Glory;
 featurePrefixes = (
 {
 automatic = 1;
@@ -2640,7 +2640,7 @@ unicode = 0066;
 {
 color = 0;
 glyphname = g;
-lastChange = "2021-03-18 01:36:20 +0000";
+lastChange = "2021-04-15 21:19:23 +0000";
 layers = (
 {
 background = {
@@ -2827,7 +2827,7 @@ nodes = (
 );
 }
 );
-width = 520;
+width = 517;
 },
 {
 background = {
@@ -2999,7 +2999,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2021-03-18 01:36:59 +0000";
+lastChange = "2021-04-15 21:19:23 +0000";
 layers = (
 {
 background = {
@@ -3284,7 +3284,7 @@ nodes = (
 );
 }
 );
-width = 471;
+width = 476;
 }
 );
 leftKerningGroup = b;
@@ -40781,7 +40781,7 @@ unicode = 011E;
 },
 {
 glyphname = gbreve;
-lastChange = "2021-03-18 01:52:46 +0000";
+lastChange = "2021-04-15 21:19:37 +0000";
 layers = (
 {
 components = (
@@ -40794,7 +40794,7 @@ transform = "{1, 0, 0, 1, 189, -57}";
 }
 );
 layerId = "707362F1-A677-446A-8636-E10BE3A7FAFF";
-width = 520;
+width = 517;
 },
 {
 components = (
@@ -40847,7 +40847,7 @@ unicode = 0120;
 },
 {
 glyphname = gdotaccent;
-lastChange = "2021-03-18 01:52:46 +0000";
+lastChange = "2021-04-15 21:19:37 +0000";
 layers = (
 {
 components = (
@@ -40860,7 +40860,7 @@ transform = "{1, 0, 0, 1, 284, -105}";
 }
 );
 layerId = "707362F1-A677-446A-8636-E10BE3A7FAFF";
-width = 520;
+width = 517;
 },
 {
 components = (
@@ -50772,7 +50772,7 @@ unicode = 1EBD;
 },
 {
 glyphname = gcommaaccent;
-lastChange = "2021-03-18 01:52:46 +0000";
+lastChange = "2021-04-15 21:19:37 +0000";
 layers = (
 {
 components = (
@@ -50785,7 +50785,7 @@ transform = "{1, 0, 0, 1, 302, -37}";
 }
 );
 layerId = "707362F1-A677-446A-8636-E10BE3A7FAFF";
-width = 520;
+width = 517;
 },
 {
 components = (
