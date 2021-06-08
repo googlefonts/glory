@@ -1,4 +1,4 @@
-Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)
+Copyright 2016-2020 The Glory Project Authors (https://github.com/googlefonts/glory)
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
