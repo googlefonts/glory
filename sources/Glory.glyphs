@@ -27332,11 +27332,21 @@ rightMetricsKey = period;
 unicode = 2026;
 },
 {
-color = 0;
+color = 1;
 glyphname = OE;
-lastChange = "2021-06-09 05:13:38 +0000";
+lastChange = "2021-06-09 05:32:34 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{423, 0}";
+},
+{
+name = top;
+position = "{423, 672}";
+}
+);
 background = {
 paths = (
 {
@@ -27567,6 +27577,16 @@ nodes = (
 width = 846;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{429, 0}";
+},
+{
+name = top;
+position = "{429, 673}";
+}
+);
 background = {
 paths = (
 {
@@ -27786,8 +27806,8 @@ nodes = (
 "318 557 CURVE SMOOTH",
 "400 557 OFFCURVE",
 "443 514 OFFCURVE",
-"446 334 CURVE",
-"446 334 LINE",
+"446 350 CURVE SMOOTH",
+"446 334 LINE SMOOTH",
 "446 157 OFFCURVE",
 "403 114 OFFCURVE",
 "318 114 CURVE SMOOTH"

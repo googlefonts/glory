@@ -10,7 +10,8 @@ DisplayStrings = (
 "nn/Placeholder no/Placeholder oo\012abcdennfnnnnghijkol/space formal\012mnopqrostouvowoxoyz",
 "HH/trademark TOO/oe/OE",
 "D/Dcaron",
-"nnfonn\012nnfann\012nnovnn\012nnownn\012nnoxnn\012nnoynn\012HHATHH\012HHFAHH\012HHGRHH\012HHILHH\012HHLTHH\012HHLVHH\012HHLYHH\012nn://nn\012nn4.nn\012nnkynn\012nn9.nn\012nn.4nn\012nn.1nn\012nnronn\012nn7.nn\012nn7/divisionslash nn\012nn////nn\012nn/divisionslash 4nn\012nn/divisionslash 7nn\012nn/divisionslash 2nn\012nny.nn"
+"nnfonn\012nnfann\012nnovnn\012nnownn\012nnoxnn\012nnoynn\012HHATHH\012HHFAHH\012HHGRHH\012HHILHH\012HHLTHH\012HHLVHH\012HHLYHH\012nn://nn\012nn4.nn\012nnkynn\012nn9.nn\012nn.4nn\012nn.1nn\012nnronn\012nn7.nn\012nn7/divisionslash nn\012nn////nn\012nn/divisionslash 4nn\012nn/divisionslash 7nn\012nn/divisionslash 2nn\012nny.nn",
+"/OE"
 );
 copyright = "Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)";
 customParameters = (
@@ -26681,11 +26682,21 @@ rightKerningGroup = period;
 unicode = 2026;
 },
 {
-color = 0;
+color = 1;
 glyphname = OE;
-lastChange = "2021-06-09 05:13:47 +0000";
+lastChange = "2021-06-09 05:32:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{430, 0}";
+},
+{
+name = top;
+position = "{573, 672}";
+}
+);
 background = {
 paths = (
 {
@@ -26916,6 +26927,16 @@ nodes = (
 width = 959;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{382, 0}";
+},
+{
+name = top;
+position = "{525, 673}";
+}
+);
 background = {
 paths = (
 {
@@ -27136,8 +27157,9 @@ nodes = (
 "517 557 OFFCURVE",
 "551 514 OFFCURVE",
 "516 334 CURVE SMOOTH",
-"478 157 OFFCURVE",
-"426 114 OFFCURVE",
+"512 318 LINE SMOOTH",
+"475 154 OFFCURVE",
+"423 114 OFFCURVE",
 "341 114 CURVE SMOOTH"
 );
 }
