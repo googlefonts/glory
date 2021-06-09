@@ -137,7 +137,8 @@ O,
 "/greaterequal",
 "/greaterequal/lessequal",
 "/uhookabove",
-"VÂT"
+"VÂT",
+"/oe/mu á/abreve âäà/amacron/aogonek åã/cacute/ccaron ç/cdotaccent/dcaron/dcroat é/ecaron êë/edotaccent è/emacron/eng/eogonek ð/gbreve/gdotaccent ß/hbar íîïì/imacron/iogonek/itilde/lacute/lcaron/lslash/nacute/ncaron ñóôöò/ohorn/ohungarumlaut/omacron øõ/pi/racute/rcaron/sacute/scaron/scedilla/tbar/tcaron þúûüù/uhorn/uhungarumlaut/umacron/uogonek/uring/utilde/wacute/wcircumflex/wdieresis/wgrave ý/ycircumflex/ydieresis/zacute/zcaron/zdotaccent/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adotbelow/ahookabove/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edotbelow/ehookabove/etilde/gcommaaccent/idotless/idotaccent/idotbelow/ihookabove/kcommaaccent/lcommaaccent/ncommaaccent/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odotbelow/ohookabove/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/rcommaaccent/scommaaccent/tcedilla/tcommaaccent/udotbelow/uhookabove/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/ydotbelow/ygrave/yhookabove/ytilde"
 );
 copyright = "Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)";
 customParameters = (
@@ -48712,7 +48713,7 @@ unicode = 0166;
 },
 {
 glyphname = tbar;
-lastChange = "2021-06-09 20:41:33 +0000";
+lastChange = "2021-06-09 21:32:04 +0000";
 layers = (
 {
 background = {
@@ -48761,9 +48762,10 @@ transform = "{0.75807, 0, 0, 0.71073, 14, 99}";
 }
 );
 layerId = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
-width = 601;
+width = 369;
 }
 );
+rightMetricsKey = t;
 unicode = 0167;
 },
 {

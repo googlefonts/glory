@@ -30,7 +30,9 @@ A,
 Fu,
 KO,
 "V/Acircumflextilde N/space CÒN/space N/Uhorntilde A/space NH/Uhorntilde NG/space NGÀY/space THÁNG/space/Dcroat Ó/space MÀ.",
-"/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/brevecomb_tildecomb.case/circumflexcomb.case/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case"
+"/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/brevecomb_tildecomb.case/circumflexcomb.case/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case",
+"æ/oe/mu á/abreve âäà/amacron/aogonek åã/cacute/ccaron ç/cdotaccent/dcaron/dcroat é/ecaron êë/edotaccent è/emacron/eng/eogonek ð/gbreve/gdotaccent ß/hbar íîïì/imacron/iogonek/itilde/lacute/lcaron/lslash/nacute/ncaron ñóôöò/ohorn/ohungarumlaut/omacron øõ/pi/racute/rcaron/sacute/scaron/scedilla/tbar t/tcaron þúûüù/uhorn/uhungarumlaut/umacron/uogonek/uring/utilde/wacute/wcircumflex/wdieresis/wgrave ý/ycircumflex/ydieresis/zacute/zcaron/zdotaccent/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adotbelow/ahookabove/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edotbelow/ehookabove/etilde/gcommaaccent/idotless/idotaccent/idotbelow/ihookabove/kcommaaccent/lcommaaccent/ncommaaccent/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odotbelow/ohookabove/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/rcommaaccent/scommaaccent/tcedilla/tcommaaccent/udotbelow/uhookabove/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/ydotbelow/ygrave/yhookabove/ytilde",
+"ABCDEFGHIJKLMNOPQRSTUVWXYZÆ/OE Á/Abreve ÂÄÀ/Amacron/Aogonek ÅÃ/Cacute/Ccaron Ç/Cdotaccent/Dcaron/Dcroat É/Ecaron ÊË/Edotaccent È/Emacron/Eng/Eogonek Ð/Gbreve/Gdotaccent/Hbar ÍÎÏ/Idotaccent Ì/Imacron/Iogonek/Itilde/Lacute/Lcaron/Lslash/Nacute/Ncaron ÑÓÔÖÒ/Ohorn/Ohungarumlaut/Omacron ØÕ/Racute/Rcaron/Sacute/Scaron/Scedilla/Tbar/Tcaron ÞÚÛÜÙ/Uhorn/Uhungarumlaut/Umacron/Uogonek/Uring/Utilde/Wacute/Wcircumflex/Wdieresis/Wgrave Ý/Ycircumflex/Ydieresis/Ygrave/Zacute/Zcaron/Zdotaccent"
 );
 classes = (
 {
@@ -50445,7 +50447,7 @@ unicode = 0166;
 },
 {
 glyphname = tbar;
-lastChange = "2021-06-08 03:29:28 +0000";
+lastChange = "2021-06-09 21:33:38 +0000";
 layers = (
 {
 background = {
@@ -50493,9 +50495,10 @@ transform = "{0.75807, 0, 0, 0.71073, -6, 99}";
 }
 );
 layerId = "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9";
-width = 600;
+width = 368;
 }
 );
+rightMetricsKey = t;
 unicode = 0167;
 },
 {
@@ -50555,7 +50558,7 @@ unicode = 0164;
 },
 {
 glyphname = tcaron;
-lastChange = "2021-06-09 01:44:33 +0000";
+lastChange = "2021-06-09 21:33:23 +0000";
 layers = (
 {
 background = {
