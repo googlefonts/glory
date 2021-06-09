@@ -574,11 +574,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1005;
+value = 1015;
 },
 {
 name = winDescent;
-value = 260;
+value = 280;
 }
 );
 descender = -200;
@@ -663,11 +663,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1005;
+value = 1015;
 },
 {
 name = winDescent;
-value = 260;
+value = 280;
 }
 );
 descender = -122;
