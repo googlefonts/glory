@@ -65087,7 +65087,10 @@ instanceInterpolations = {
 "707362F1-A677-446A-8636-E10BE3A7FAFF" = 0.92241;
 "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 0.07759;
 };
+isItalic = 1;
+linkStyle = ExtraLight;
 name = "ExtraLight Italic";
+weightClass = ExtraLight;
 },
 {
 customParameters = (
@@ -65183,7 +65186,7 @@ instanceInterpolations = {
 "D1BC8BBB-1669-4C46-BC21-42BF6808B2B9" = 1;
 };
 isItalic = 1;
-linkStyle = Black;
+linkStyle = ExtraBold;
 name = "ExtraBold Italic";
 weightClass = ExtraBold;
 }
@@ -65437,5 +65440,5 @@ tH = "89";
 };
 };
 versionMajor = 1;
-versionMinor = 10;
+versionMinor = 11;
 }
