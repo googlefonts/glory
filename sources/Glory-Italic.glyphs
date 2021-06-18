@@ -37747,7 +37747,9 @@ width = 418;
 unicode = 0107;
 },
 {
+color = 7;
 glyphname = caron;
+lastChange = "2021-06-18 01:09:43 +0000";
 layers = (
 {
 components = (
@@ -38493,8 +38495,9 @@ note = Delta;
 unicode = 2206;
 },
 {
+color = 7;
 glyphname = dotaccent;
-lastChange = "2021-06-09 20:24:10 +0000";
+lastChange = "2021-06-18 01:09:43 +0000";
 layers = (
 {
 background = {
@@ -43334,7 +43337,9 @@ width = 479;
 unicode = 0127;
 },
 {
+color = 7;
 glyphname = hungarumlaut;
+lastChange = "2021-06-18 01:09:43 +0000";
 layers = (
 {
 components = (
