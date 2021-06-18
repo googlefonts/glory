@@ -148,7 +148,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE OE Aacute Abreve 
 name = Uppercase;
 }
 );
-copyright = "Copyright 2016-2020 The GloryTSI Project Authors (https://github.com/googlefonts/glory)";
+copyright = "Copyright 2016-2020 The Glory Project Authors (https://github.com/googlefonts/glory)";
 customParameters = (
 {
 name = licenseURL;
